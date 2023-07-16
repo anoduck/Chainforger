@@ -1,7 +1,9 @@
 # Chainforger
 A proxy scraper for proxychains
 
-**NO LONGER MAINTAINED. ChainForger was a nice little side project. I haven't touched it in years and don't plan to anymore, which is why it's archived now.**
+~~NO LONGER MAINTAINED. ChainForger was a nice little side project. I haven't touched it in years and don't plan to anymore, which is why it's archived now.~~
+
+If you clone from this repo I will try to maintain, since the script is very basic and still works beautifully after not being touched in four years.
 
 # Features
 - [x] Scrape http, https, socks4 and socks5
@@ -9,7 +11,7 @@ A proxy scraper for proxychains
 - [x] 1000+ proxies scrapable!
 
 # Requirements
-- Python 3.4+
+- Python +3.10
 - Requests module
 
 # Installation
